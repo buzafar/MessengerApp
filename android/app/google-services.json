@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "193885194531",
+    "project_id": "project-19b8b",
+    "storage_bucket": "project-19b8b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193885194531:android:397df9e51c7b70174be496",
+        "android_client_info": {
+          "package_name": "com.example.auth_test55"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193885194531-tdrh54sj9599gp7p778lq2hg0g9vo74n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auth_test55",
+            "certificate_hash": "8b67d1a5fab39b4077542926a0005c45a4e493d3"
+          }
+        },
+        {
+          "client_id": "193885194531-amsp0d2dm52vcai14j5u7m5hs2eq0nir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCukQIUJ3VK1WEn7OH-RrETYAfcjl1Gb3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193885194531-amsp0d2dm52vcai14j5u7m5hs2eq0nir.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "193885194531-2dlovjdp022aoildsc3g72o1lsvvosnc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bgame"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193885194531:android:813ec64e45f6650c4be496",
+        "android_client_info": {
+          "package_name": "com.example.bgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193885194531-amsp0d2dm52vcai14j5u7m5hs2eq0nir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCukQIUJ3VK1WEn7OH-RrETYAfcjl1Gb3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193885194531-amsp0d2dm52vcai14j5u7m5hs2eq0nir.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "193885194531-2dlovjdp022aoildsc3g72o1lsvvosnc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bgame"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
